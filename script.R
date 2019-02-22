@@ -20,7 +20,7 @@
 
 # launch: if it won't deploy, read the status and specify right version of hugo!
 
-#-- Add markdown docs in teaching?
+#-- Add markdown docs in teaching? Code for other stuf?
 #-- Add research projects?
 
 
