@@ -86,6 +86,8 @@ interests = [
 
 +++
 
-Hi! My name is Max Lindmark and I am a PhD Student at the Swedish University of Agricultural Sciences. I'm from the west coast of Sweden, and I have for a long time been interested in marine ecology, especially fish and fisheries ecology. For my PhD studies, I want to understand how climate warming affects individuals, and how that affects size-structured populations and communities. I work with dynamic size-structured models and statistical models.
+Hi! 
+
+My name is Max Lindmark and I am a PhD Student at the Swedish University of Agricultural Sciences. I'm from the west coast of Sweden, and I have for a long time been interested in marine ecology, especially fish and fisheries ecology. For my PhD studies, I want to understand how climate warming affects individuals, and how that affects size-structured populations and communities. I work with dynamic size-structured models and statistical models.
 
 Feel free to contact me if you want to get in touch!
