@@ -17,7 +17,7 @@ authors = ["Lindmark, M.", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In ***Ecology Letters (in press)***"
+publication = "***Ecology Letters (in press)***"
 
 # Digital Object Identifier (DOI)
 doi = "https://www.biorxiv.org/content/10.1101/430082v1"

@@ -18,7 +18,9 @@
 # 
 # blogdown::serve_site()
 
-# launch
-# add markdown docs in teaching?
+# launch: if it won't deploy, read the status and specify right version of hugo!
+
+#-- Add markdown docs in teaching?
+#-- Add research projects?
 
 

@@ -16,7 +16,7 @@ role = "PhD Student in Marine Ecology"
 organizations = [ { name = "Swedish University of Agricultural Sciences (SLU)", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Fish and Fisheries Ecology."
+#bio = "My research interests include Fish and Fisheries Ecology."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,16 +24,16 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Fish and Fisheries Ecology",
-  "Population and Eommunity Ecology",
+  "Population and Community Ecology",
 ]
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+#   Set this to `[]` or comment out if you are not using People #widget.
+#user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MRes in Applied Marine and Fisheries Ecology"
+  course = "MRes (Distinction) in Applied Marine and Fisheries Ecology"
   institution = "University of Aberdeen"
   year = 2015
 
@@ -86,4 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi! My name is Max Lindmark and I am a PhD Student at the Swedish University of Agricultural Sciences.
+Hi! My name is Max Lindmark and I am a PhD Student at the Swedish University of Agricultural Sciences. I'm from the west coast of Sweden, and I have for a long time been interested in marine ecology, especially about fish and fisheries. For my PhD studies, I want to better understand how climate warming affects individuals, and how that affects size-structured populations and communities. To do that, I work with dynamic size-structured models and statistical models.
