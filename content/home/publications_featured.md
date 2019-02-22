@@ -3,7 +3,7 @@
 # This widget displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 widget = "publications_featured"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Featured Publications"
 subtitle = ""
@@ -16,7 +16,7 @@ weight = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 3
+view = 4
 
 # Filter by publication type.
 # -1: Any
@@ -27,6 +27,6 @@ view = 3
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 +++
 

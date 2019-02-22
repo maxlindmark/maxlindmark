@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Max Lindmark</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Max Lindmark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gardmark, A.</title>
+      <link>/authors/gardmark-a./</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/gardmark-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huss, M.</title>
+      <link>/authors/huss-m./</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/huss-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindmark, M.</title>
+      <link>/authors/lindmark-m./</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/lindmark-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohlberger, J.</title>
+      <link>/authors/ohlberger-j./</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/authors/ohlberger-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

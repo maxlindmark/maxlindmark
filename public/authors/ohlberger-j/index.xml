@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ohlberger, J. on Max Lindmark</title>
+    <link>/authors/ohlberger-j./</link>
+    <description>Recent content in Ohlberger, J. on Max Lindmark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/ohlberger-j./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Size-based ecological interactions drive food web responses to climate warming</title>
+      <link>/publication/lindmark_etal_2019_ele/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lindmark_etal_2019_ele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature-dependent body size effects determine population responses to climate warming</title>
+      <link>/publication/lindmark_etal_2018_ele/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lindmark_etal_2018_ele/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
