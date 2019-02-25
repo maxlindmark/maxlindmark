@@ -20,7 +20,7 @@ publication_types = ["2"]
 publication = "***Ecology Letters (in press)***"
 
 # Digital Object Identifier (DOI)
-doi = "http://dx.doi.org/10.1101/430082"
+doi = "10.1101/430082"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -33,6 +33,7 @@ tags = []
 url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2018/09/29/430082.full.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/430082v1"
 url_code = "https://github.com/maxlindmark/Temperature_Allee"
+url_supplement = "https://github.com/maxlindmark/Temperature_Allee"
 #url_dataset = ""
 #url_project = ""
 #url_slides = "#"
