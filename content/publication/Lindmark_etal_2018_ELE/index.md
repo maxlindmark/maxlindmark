@@ -20,7 +20,7 @@ publication_types = ["2"]
 publication = "***Ecology Letters***"
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1111/ele.12880"
+doi = "10.1111/ele.12880"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -30,7 +30,7 @@ featured = true
 tags = []
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12880"
+url_pdf = "files/Lindmark_etal_2018_ELE.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 url_dataset = "https://doi.org/10.5061/dryad.6nb35"

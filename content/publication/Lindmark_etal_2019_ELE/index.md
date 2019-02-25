@@ -20,7 +20,7 @@ publication_types = ["2"]
 publication = "***Ecology Letters (in press)***"
 
 # Digital Object Identifier (DOI)
-doi = "https://www.biorxiv.org/content/10.1101/430082v1"
+doi = "http://dx.doi.org/10.1101/430082"
 
 # Is this a featured publication? (true/false)
 featured = true
