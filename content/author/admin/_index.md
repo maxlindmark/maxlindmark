@@ -87,7 +87,6 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
 Hi! 
 
 My name is Max Lindmark and I am a PhD Student at the Swedish University of Agricultural Sciences. I'm from the west coast of Sweden, and I have a broad interest in marine ecology, ranging from macro ecology to conservation. However I do have a very special interest in fish and fisheries ecology! 
