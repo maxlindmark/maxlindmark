@@ -26,7 +26,7 @@ interests = [
   "Fish and Fisheries Ecology",
   "Population and Community Ecology"
   "Ecological Theory"
-  "R",
+  "R"
 ]
 
 # Organizational groups that you belong to (for People widget)
