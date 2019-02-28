@@ -1,6 +1,9 @@
+#remotes::install_github('rstudio/blogdown')
+
 #blogdown::new_site(theme = "gcushen/hugo-academic", theme_example = TRUE)
 
-#remotes::install_github('rstudio/blogdown')
+# blogdown::serve_site()
+
 
 # Very helpful source:
 # https://alison.rbind.io/post/up-and-running-with-blogdown/
@@ -16,7 +19,6 @@
 # .libPaths("C:/Program Files/R/R-3.5.0/library")
 # .libPaths()
 # 
-# blogdown::serve_site()
 
 # launch: if it won't deploy, read the status and specify right version of hugo!
 
