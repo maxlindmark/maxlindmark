@@ -17,7 +17,7 @@ authors = ["Lindmark, M.", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "***Ecology Letters (early view)***"
+publication = "***Ecology Letters***"
 
 # Digital Object Identifier (DOI)
 doi = "10.1111/ele.13235"
@@ -30,9 +30,10 @@ featured = true
 tags = []
 
 # Links (optional).
-url_pdf = "files/Lindmark-etal-2019-ELE_early-view.pdf"
+url_pdf = "files/Lindmark-etal-2019-ELE.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/430082v1"
 url_code = "https://github.com/maxlindmark/Temperature_Allee"
+url_appendix = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fele.13235&file=ele13235-sup-0001-AppendixS1.pdf"
 #url_dataset = ""
 #url_project = ""
 #url_slides = "#"
