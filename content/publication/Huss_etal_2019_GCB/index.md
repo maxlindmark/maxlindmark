@@ -30,7 +30,7 @@ featured = true
 tags = []
 
 # Links (optional).
-url_pdf = "files/Lindmark_etal_2019_ELE.pdf"
+url_pdf = "files/Huss_etal_2019_GCB.pdf"
 #url_preprint = ""
 #url_code = "https://github.com/maxlindmark/Temperature_Allee"
 #url_dataset = ""

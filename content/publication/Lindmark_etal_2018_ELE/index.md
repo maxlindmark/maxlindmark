@@ -3,7 +3,7 @@ title = "Temperature-dependent body size effects determine population responses 
 date = 2018-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lindmark, M.", "Huss, M.", "Ohlberger, J.", "Gardmark, A."]
+authors = ["*Lindmark, M.*", "Huss, M.", "Ohlberger, J.", "Gardmark, A."]
 
 # Publication type.
 # Legend:
