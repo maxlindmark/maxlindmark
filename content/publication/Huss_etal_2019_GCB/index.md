@@ -1,9 +1,9 @@
 +++
-title = "Size-based ecological interactions drive food web responses to climate warming"
-date = 2019-02-01T00:00:00
+title = "Experimental evidence of gradual size-dependent shifts in body size and growth of fish in response to warming"
+date = 2019-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lindmark, M.", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
+authors = ["Huss, M.", "Lindmark, M.", "Jacobson, P.", "van Dorst, R.", "Gardmark, A."]
 
 # Publication type.
 # Legend:
@@ -17,10 +17,10 @@ authors = ["Lindmark, M.", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "***Ecology Letters***"
+publication = "***Global Change Biology (early view)***"
 
 # Digital Object Identifier (DOI)
-doi = "10.1111/ele.13235"
+doi = "10.1111/gcb.14637"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -31,8 +31,8 @@ tags = []
 
 # Links (optional).
 url_pdf = "files/Lindmark_etal_2019_ELE.pdf"
-url_preprint = "https://www.biorxiv.org/content/10.1101/430082v1"
-url_code = "https://github.com/maxlindmark/Temperature_Allee"
+#url_preprint = ""
+#url_code = "https://github.com/maxlindmark/Temperature_Allee"
 #url_dataset = ""
 #url_project = ""
 #url_slides = "#"
