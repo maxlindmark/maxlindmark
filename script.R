@@ -26,3 +26,22 @@
 #-- Add research projects?
 
 
+
+## Approach:
+# - get git
+# - get github account
+# - install package
+# - load libraries
+# - install them
+# - build site
+# - serve site
+# - preview
+# - get netlify
+# - host!
+
+
+
+
+
+
+
