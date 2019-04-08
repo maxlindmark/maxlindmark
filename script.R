@@ -34,6 +34,7 @@
 # - load libraries
 # - install them
 # - build site
+# - push to github using brute force
 # - serve site
 # - preview
 # - get netlify
