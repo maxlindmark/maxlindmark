@@ -9,7 +9,7 @@
 # https://alison.rbind.io/post/up-and-running-with-blogdown/
 # and
 # https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-3/
-
+# https://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
 
 # initial commmiting issues:
 # https://support.rstudio.com/hc/en-us/community/posts/200656917-Cannot-tick-the-stage-checkbox-of-modified-files-in-the-git-pane
