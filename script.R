@@ -35,6 +35,8 @@
 
 ## to change from default layout: check author/content/home. set to false! (including the index file (main widget!)
 
+## To link publications, check menus.toml are linked to the actual content file!
+
 ## Icons for website: 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
