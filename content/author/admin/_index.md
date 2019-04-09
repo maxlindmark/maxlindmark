@@ -89,6 +89,10 @@ interests = [
   icon_pack = "ai"
   link = "https://publons.com/researcher/1444596/max-lindmark/"
 
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/fishinfoodwebs/?hl=en"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

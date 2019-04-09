@@ -1,4 +1,7 @@
-#remotes::install_github('rstudio/blogdown')
+##---- Will clean this up, just random notes now. Will comment it better when I make a new site from scratch! Test also if it's best to put on C or server
+
+
+# remotes::install_github('rstudio/blogdown')
 
 # blogdown::new_site(theme = "gcushen/hugo-academic", theme_example = TRUE)
 
