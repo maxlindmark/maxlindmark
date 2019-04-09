@@ -1,11 +1,14 @@
 ##---- Will clean this up, just random notes now. Will comment it better when I make a new site from scratch! Test also if it's best to put on C or server
 
+# my publications .md file is different from the non-devtools option!
 
 # remotes::install_github('rstudio/blogdown')
 
 # blogdown::new_site(theme = "gcushen/hugo-academic", theme_example = TRUE)
 
 # blogdown::serve_site()
+
+# remove stuff you don't want in publication folder (e.g. pictures, cite etc)
 
 
 # Very helpful source:
