@@ -27,12 +27,12 @@
 
 
 
-## Approach:
+## Approach for WK:
 # - get git
 # - get github account
 # - install package
 # - load libraries
-# - install them
+# - install theme
 # - build site
 # - push to github using brute force
 # - serve site
