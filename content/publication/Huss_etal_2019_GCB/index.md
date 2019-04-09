@@ -3,7 +3,7 @@ title = "Experimental evidence of gradual size-dependent shifts in body size and
 date = 2019-04-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Huss, M.", "Lindmark, M.", "Jacobson, P.", "van Dorst, R.", "Gardmark, A."]
+authors = ["Huss, M.", "*Lindmark, M.*", "Jacobson, P.", "van Dorst, R.", "Gardmark, A."]
 
 # Publication type.
 # Legend:
