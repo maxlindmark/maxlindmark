@@ -3,7 +3,7 @@ title = "Size-based ecological interactions drive food web responses to climate 
 date = 2019-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lindmark, M.", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
+authors = ["**Lindmark, M.**", "Ohlberger, J.", "Huss, M.", "Gardmark, A."]
 
 # Publication type.
 # Legend:
