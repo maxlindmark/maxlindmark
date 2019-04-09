@@ -33,6 +33,8 @@
 #-- Add research projects?
 
 
+## to change from default layout: check author/content/home. set to false! (including the index file (main widget!)
+
 ## Icons for website: 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
