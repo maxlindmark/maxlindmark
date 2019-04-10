@@ -18,6 +18,8 @@
 # https://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
 # https://djnavarro.net/post/2018-04-27-starting-blogdown/
 
+# if build failes (netlify, not local), check build version of Hugo!
+# https://app.netlify.com/sites/maxlindmark/settings/deploys
 
 # initial commmiting issues:
 # https://support.rstudio.com/hc/en-us/community/posts/200656917-Cannot-tick-the-stage-checkbox-of-modified-files-in-the-git-pane
