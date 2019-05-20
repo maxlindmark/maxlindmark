@@ -17,7 +17,7 @@ authors = ["Huss, M.", "**Lindmark, M.**", "Jacobson, P.", "van Dorst, R.", "Gar
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "***Global Change Biology (early view)***"
+publication = "***Global Change Biology***"
 
 # Digital Object Identifier (DOI)
 doi = "10.1111/gcb.14637"
