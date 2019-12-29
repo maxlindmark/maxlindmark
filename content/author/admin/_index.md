@@ -24,6 +24,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Fish and Fisheries Ecology",
+  "TEST",
   "Population and Community Ecology",
   "Ecological Theory",
   "R"
