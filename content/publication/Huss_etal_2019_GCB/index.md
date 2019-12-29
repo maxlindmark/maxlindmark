@@ -21,10 +21,6 @@ publication = "***Global Change Biology***"
 
 # Digital Object Identifier (DOI)
 doi = "10.1111/gcb.14637"
-Git Push
-	
-Stop
-
 
 # Is this a featured publication? (true/false)
 featured = true
