@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "max.lindmark@slu.se"
 phone = "+46(0)104 78 41 73"
-address = "Department of Aquatic Resources (SLU Aqua), Institute of Coastal Research, Skolgatan 6, 742 42 Oregrund, Sweden"
+address = "Department of Aquatic Resources (SLU Aqua), Institute of Marine Research, Turistgatan 5, SE-453 30 Lysekil, Sweden"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
