@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Marine Ecology"
+role = "Postdoc in Marine Ecology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Swedish University of Agricultural Sciences (SLU)", url = "" } ]
+organizations = [ { name = "Swedish University of Agricultural Sciences (SLU), Department of Aquatic Resources, Institute of Marine Research", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My research interests include Fish and Fisheries Ecology."
