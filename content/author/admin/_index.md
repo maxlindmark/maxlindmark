@@ -13,7 +13,7 @@ role = "Postdoc in Marine Ecology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Swedish University of Agricultural Sciences (SLU), Department of Aquatic Resources, Institute of Marine Research", url = "" } ]
+organizations = [ { name = "Swedish University of Agricultural Sciences (SLU)" }, { name = "Department of Aquatic Resources"}, { name = "Institute of Marine Research"} ]
 
 # Short bio (displayed in user profile at end of posts)
 #bio = "My research interests include Fish and Fisheries Ecology."
