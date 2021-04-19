@@ -106,7 +106,7 @@ Hi!
 
 My name is Max Lindmark and I am a postdoc at the Institute of Marine Research, Swedish University of Agricultural Sciences. I have a broad interest in marine ecology, but I have always been especially interested in fish and fisheries ecology. 
 
-My current research aims to understand cod-flounder interactions in the Baltic Sea using survey data using spatio-temporal models, and if changes in these contribute to the poor performance of cod.
+My current research aims to understand cod-flounder interactions in the Baltic Sea using survey data and spatio-temporal models, and if changes in these contribute to the poor performance of cod.
 
 For my PhD studies, I worked on understanding the effects of climate warming on individuals and size-structured populations and communities using dynamic models. 
 
